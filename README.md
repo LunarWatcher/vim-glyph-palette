@@ -2,6 +2,8 @@
 
 This is an AI slop-free fork of vim-glyph-palette. This fork is primarily intended for compatibility with [LunarWatcher/fern.vim](https://github.com/LunarWatcher/fern.vim?tab=readme-ov-file#plugins-and-compatibility) via [LunarWatcher/vim-fern-renderer-nerdfont](https://github.com/LunarWatcher/vim-fern-renderer-nerdfont).
 
+As of 2026-03-08, this plugin is no longer maintained. Due to [AI slop in vim](https://hachyderm.io/@AndrewRadev/116175986749599825), I have moved to emacs with evil mode.
+
 ## Requirements
 
 For the glyphs to render at all, you'll need a [Nerd Font](https://github.com/ryanoasis/nerd-fonts). Without it, the glyphs will not render.
